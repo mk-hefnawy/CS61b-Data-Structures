@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS61b Data Structures:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS61b_Data_Structures_jar</output-path>
+    <root id="archive" name="CS61b Data Structures.jar">
+      <element id="module-output" name="CS61b Data Structures" />
+    </root>
+  </artifact>
+</component>
